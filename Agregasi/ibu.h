@@ -1,6 +1,10 @@
 #ifndef IBU_H
-#define IBU H
+#define IBU_H
+
+#include <iostream>
 #include <vector>
+using namespace std;
+#include "Anak.h"
 
 class ibu {
 public:
