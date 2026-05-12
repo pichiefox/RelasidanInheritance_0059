@@ -2,7 +2,7 @@
 using namespace std;
 
 #include "anak.h" //memanggil data anak.h
-#include "ibu.h"
+#include "ibu.h" //memanggil data ibu.h
 
 int main() { //agregasi
     ibu* varIbu = new ibu("dini");
